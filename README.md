@@ -21,15 +21,6 @@
 #### Productivity App For Students
 
 <i><b>
-Category:
-  </br>
-Most Creative Use Of GitHub
-  </br>
-Best beginner Hack
-  </br>
-  </br>
-Made with replit and deployed on GitHub Pages
-</br>
 Live Project Link - <a href="https://dexprimz.github.io/StudyBuddy/">Click Here</a> 
 </i></b>
 
