@@ -32,7 +32,7 @@ Live Project Link - <a href="https://dexprimz.github.io/StudyBuddy/">Click Here<
 <!-- ![SBthumb](https://github.com/dexprimZ/StudyBuddy/assets/110420696/083e551e-c6e4-4a61-9942-0eb0d86b7069) -->
 
 <i><b>
-Video Link - <a href="https://youtu.be/S9_p5hWrvcg">Click Here</a>
+Video Link - <a href="https://youtu.be/XsrDMV-5Oa0">Click Here</a>
  </i></b>
  </br>
 
